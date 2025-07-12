@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/LovitraMehta/GitCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/LovitraMehta/GitCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LovitraMehta/GitCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/LovitraMehta/GitCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/LovitraMehta/GitCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LovitraMehta/GitCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/LovitraMehta/GitCode/tree/master/2479-meeting-rooms-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LovitraMehta/GitCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
