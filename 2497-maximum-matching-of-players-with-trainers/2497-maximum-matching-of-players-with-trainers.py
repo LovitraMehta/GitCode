@@ -1,17 +1,18 @@
+import heapq
+
 class Solution:
     def matchPlayersAndTrainers(self, players: List[int], trainers: List[int]) -> int:
-        players.sort()
-        trainers.sort()
+        heapq.heapify(players)
+        heapq.heapify(trainers)
         
-        i, j = 0, 0  # i for players, j for trainers
         match_count = 0
         
-        while i < len(players) and j < len(trainers):
-            if players[i] <= trainers[j]:
+        while players and trainers:
+            if players[0] <= trainers[0]:
+                heapq.heappop(players)
+                heapq.heappop(trainers)
                 match_count += 1
-                i += 1
-                j += 1
             else:
-                j += 1  # Trainer can't match player[i], try next trainer
-                
+                heapq.heappop(trainers)
+        
         return match_count
