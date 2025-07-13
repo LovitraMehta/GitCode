@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/LovitraMehta/GitCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LovitraMehta/GitCode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/LovitraMehta/GitCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/LovitraMehta/GitCode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LovitraMehta/GitCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/LovitraMehta/GitCode/tree/master/0125-valid-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |
