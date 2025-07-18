@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/LovitraMehta/GitCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LovitraMehta/GitCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LovitraMehta/GitCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/LovitraMehta/GitCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/LovitraMehta/GitCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LovitraMehta/GitCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/LovitraMehta/GitCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/LovitraMehta/GitCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LovitraMehta/GitCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LovitraMehta/GitCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/LovitraMehta/GitCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/LovitraMehta/GitCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/LovitraMehta/GitCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Greedy
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/LovitraMehta/GitCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/LovitraMehta/GitCode/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
 |  |
