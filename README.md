@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LovitraMehta/GitCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/LovitraMehta/GitCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LovitraMehta/GitCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/LovitraMehta/GitCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LovitraMehta/GitCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/LovitraMehta/GitCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/LovitraMehta/GitCode/tree/master/0088-merge-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/LovitraMehta/GitCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LovitraMehta/GitCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LovitraMehta/GitCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LovitraMehta/GitCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/LovitraMehta/GitCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LovitraMehta/GitCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LovitraMehta/GitCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LovitraMehta/GitCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
