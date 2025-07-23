@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/LovitraMehta/GitCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/LovitraMehta/GitCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LovitraMehta/GitCode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/LovitraMehta/GitCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [3396-valid-word](https://github.com/LovitraMehta/GitCode/tree/master/3396-valid-word) |
 ## Trie
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/LovitraMehta/GitCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/LovitraMehta/GitCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LovitraMehta/GitCode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/LovitraMehta/GitCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LovitraMehta/GitCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
