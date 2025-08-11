@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LovitraMehta/GitCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LovitraMehta/GitCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/LovitraMehta/GitCode/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/LovitraMehta/GitCode/tree/master/0605-can-place-flowers) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/LovitraMehta/GitCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/LovitraMehta/GitCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LovitraMehta/GitCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/LovitraMehta/GitCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LovitraMehta/GitCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LovitraMehta/GitCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/LovitraMehta/GitCode/tree/master/0605-can-place-flowers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LovitraMehta/GitCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/LovitraMehta/GitCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sliding Window
