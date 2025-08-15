@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LovitraMehta/GitCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/LovitraMehta/GitCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/LovitraMehta/GitCode/tree/master/0605-can-place-flowers) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/LovitraMehta/GitCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/LovitraMehta/GitCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/LovitraMehta/GitCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LovitraMehta/GitCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
