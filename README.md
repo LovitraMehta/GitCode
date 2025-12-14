@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LovitraMehta/GitCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/LovitraMehta/GitCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
